@@ -1,0 +1,14 @@
+{
+    "name": "admin/projetoexemplo",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gustavo"
+        }
+    ],
+    "require": {}
+}
