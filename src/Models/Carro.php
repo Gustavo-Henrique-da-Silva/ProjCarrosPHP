@@ -15,7 +15,6 @@ class Carro extends Veiculo{
   public function acelerar() {
     
     if ($this->motor=="MotorFusca"){
-        print ("Teste");
         return "Vrummm...";
     }
     else if ($this->motor=="MotorFerrari") {

@@ -6,7 +6,8 @@ use App\Models\Motor;
 use App\Models\Veiculo;
 use App\Models\Carro;
 $p = new Pessoa();
-print ("<br> Desenvolvendo Carros <br>");
+
+print ("<br> Desenvolvendo Carros no PHP puro... <br>");
 $c1 = new Carro();
 $c1->setnome("Fusca");
 $c1->setmarca("Volkswagen");
